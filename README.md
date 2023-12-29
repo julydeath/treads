@@ -7,4 +7,6 @@
   ```
 
 - [2]: After creating next application lets download some required packages
-  - [1] :
+  - ```javascript
+    npm install 
+  ```
